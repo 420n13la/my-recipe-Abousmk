@@ -1,18 +1,27 @@
 body {
-  background-color: 	moccasin;
+  background-color: lightwhite;
 }
 
 h1 {
-  color: black ;
+  color: gold;
   text-align: center;
-  font-family:;
+  font-family: 'Manjari', sans-serif;
+  border: 5px solid blue; 
 }
 
 h2 {
-  color: pale yellow;
+  color: lightgray;
   text-align: left;
+  border: 5px solid black
 }
 
 p {
-  font-size: 15px;
+  font-size: 20px;
+  border: 5px solid black
+  img{
+    width : 200px;
+    height : 200px;
+      
+  }
 }
+</style>
